@@ -9,3 +9,6 @@ def find_big(arr):
 
 ar =[10,20,304,506,905,4]
 print("largest " , find_big(ar))
+
+
+print("using the max function ",max(ar))
